@@ -1,0 +1,9 @@
+FiboI = fibo iterado
+FiboR = fibo recursivo
+FiboR_FiboI = comparacion de Fibo
+GraficaFiboIterado = tiempo de solo FiboI
+GraficaFiboRecursivo = tiempo solo FiboR
+GraficaFiboRvsFiboI = vs de tiempos, FiboR = Azul y FiboI = naranja
+MatricesSum = suma 2 matrices de dimensiones variables (verifica que se puedan sumar)
+MatricesMul = multiplica 2 matrices de dimensionves varialbes (verificar que se puedan multiplicar)
+TiemposFiboRvsFiboI = vs de tiempos segun FiboR_FiboI con mayor exactitud
