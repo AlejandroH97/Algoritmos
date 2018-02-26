@@ -17,14 +17,14 @@ def fibI(n):
 listatiempos = []
 
 tiempoinicio = time.clock()
-for i in range(0, 45, 5):
+for i in range(0, 25000, 1):
     resultado_fibo = fibI(i)
     tiempofinal = time.clock()
     listatiempos.append(tiempofinal-tiempoinicio)
     print("n=", i, "fib(", i, ")=", resultado_fibo, "time", tiempofinal - tiempoinicio, "seconds process time")
 
 
-numeros = np.arange(0, 45, 5)
+numeros = np.arange(0, 25000, 1)
 pl.ylabel("Tiempo")
 pl.xlabel("Numero")
 pl.plot(numeros, listatiempos)
