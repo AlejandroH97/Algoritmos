@@ -2,7 +2,7 @@ Produco de Matrices cuadradas de 1's y 2's en Java pero compilado en Ideone:
 
 link | https://ideone.com/Vu4aNj |
 
-Éxito	#stdin #stdout 0.36s 49388KB
+Ã‰xito	#stdin #stdout 0.36s 49388KB
 Ingrese el numero n de los arreglos de 1s y 2s de tamano nxn
 Promedio de produco de matrices 2x2 con 1s y 2x2 con 2s es: 1.2035E-6
 Promedio de produco de matrices 3x3 con 1s y 3x3 con 2s es: 5.182592592592593E-7
