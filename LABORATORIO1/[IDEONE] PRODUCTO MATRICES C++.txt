@@ -2,7 +2,7 @@ Produco de Matrices cuadradas de 1's y 2's en C++ pero compilado en Ideone:
 
 link | https://ideone.com/ll9qDg |
 
-Éxito	#stdin #stdout 0.23s 4408KB
+Ã‰xito	#stdin #stdout 0.23s 4408KB
 Promedio tiempo para 2x2 es: 2.500000e-08
 Promedio tiempo para 3x3 es: 7.407407e-09
 Promedio tiempo para 4x4 es: 2.343750e-09
