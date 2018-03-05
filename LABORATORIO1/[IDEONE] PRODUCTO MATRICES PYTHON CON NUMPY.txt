@@ -2,7 +2,7 @@ Produco de Matrices cuadradas de 1's y 2's en Python con Numpy pero compilado en
 
 link | https://ideone.com/LBXvf2 |
 
-Éxito	#stdin #stdout 0.32s 21652KB
+Ã‰xito	#stdin #stdout 0.32s 21652KB
 Ingrese el numero n de los arreglos de 1s y 2s de tamano nxn
 [1.9374999999993356e-07, 5.5555555555559724e-08, 2.1875000000000194e-08, 1.0799999999999698e-08,
 6.7129629629664648e-09, 4.6647230320685674e-09, 3.5156249999980948e-09, 2.5377229080948646e-09,
